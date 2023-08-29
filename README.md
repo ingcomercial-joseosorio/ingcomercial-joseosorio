@@ -7,7 +7,8 @@ José Osorio</a></h1>
 
 <h1>Sobre mi</h1>
 
-- 📖 Soy autodidacta
+- 🔭 Actualmente trabajo en<a href="https://lascondes.cl/" target="blank"> Municipalidad de Las Condes
+- 📖 Soy autodidacta y actualmente estoy haciendo un curso en <a href="https://www.udemy.com/course/master-sql-server/" target="blank"> Udemy
 - ❤️ Soy gamer
 - 📄 Conoce mi experiencia <a href="https://github.com/ingcomercial-joseosorio/ingcomercial-joseosorio/blob/main/CV%20Ing%20Comercial%20Jos%C3%A9%20Miguel%20Osorio.pdf" target="blank"> Currículum
 
