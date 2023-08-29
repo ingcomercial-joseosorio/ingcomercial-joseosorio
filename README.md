@@ -1,7 +1,7 @@
 
 
 
-<img src="https://www.canva.com/design/DAFs8FWz7Lg/dST07zgBIhGSHUgd6gookg/view?utm_content=DAFs8FWz7Lg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+<img src="C:\Users\jmosorio\OneDrive - Municipalidad de Las Condes\José Osorio\Personal">
 
   
 <!--
