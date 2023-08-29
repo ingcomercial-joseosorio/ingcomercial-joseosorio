@@ -1,7 +1,7 @@
 
 
 
-<img src="https://ibb.co/xmnNYc9.png">
+<img src="https://github.com/ingcomercial-joseosorio/ingcomercial-joseosorio/blob/main/Banner%20Github.png">
 
   
 <!--
