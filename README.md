@@ -11,7 +11,24 @@ José Osorio</a></h1>
 - 📖 Soy autodidacta y actualmente estoy haciendo un curso en <a href="https://www.udemy.com/course/master-sql-server/" target="blank"> Udemy<a/> de SQL, en conjunto con un curso de <a href="https://www.udemy.com/course/master-sql-server/" target="blank"> Microsoft<a/> de Power BI
 - 📄 Conoce mi experiencia <a href="https://github.com/ingcomercial-joseosorio/ingcomercial-joseosorio/blob/main/CV%20Ing%20Comercial%20Jos%C3%A9%20Miguel%20Osorio.pdf" target="blank"> Currículum
 - 📧 Cómo contactarme <a href="mailto:jose.oso.cal@gmail.com" target="blank"> jose.oso.cal@gmail.com
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin- left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ingcomercial-joseosorio/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/ingcomercial-joseosorio">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/josoric/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/ingcomercial-joseosorio/ingcomercial-joseosorio/blob/main/CV%20Ing%20Comercial%20Jos%C3%A9%20Miguel%20Osorio.pdf">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+   <a style="margin-left: 10px;" target="_blank" href="">     
+      </div>
+
+</p>
 
 
               
