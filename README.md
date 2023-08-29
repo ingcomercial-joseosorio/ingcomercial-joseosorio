@@ -1,7 +1,7 @@
 
 
 
-<img src="C:\Users\jmosorio\OneDrive - Municipalidad de Las Condes\José Osorio\Personal">
+<img src="https://ibb.co/xmnNYc9">
 
   
 <!--
