@@ -27,5 +27,3 @@ José Osorio</a></h1>
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
    <a style="margin-left: 10px;" target="_blank" href="">     
       </div>
-
-</p>
