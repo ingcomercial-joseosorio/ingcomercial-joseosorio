@@ -12,7 +12,7 @@ José Osorio</a></h1>
 - 📄 Conoce mi experiencia <a href="https://github.com/ingcomercial-joseosorio/ingcomercial-joseosorio/blob/main/CV%20Ing%20Comercial%20Jos%C3%A9%20Miguel%20Osorio.pdf" target="blank"> Currículum
 - 📧 Cómo contactarme <a href="mailto:jose.oso.cal@gmail.com" target="blank"> jose.oso.cal@gmail.com
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contáctame 🤝 </h3>
 
 <p align="center">
 
